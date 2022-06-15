@@ -10,4 +10,4 @@
  <img src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon)](https://github.com/SeungAhSon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact)](https://github.com/SeungAhSon/github-readme-stats)
