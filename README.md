@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
----
+---1
 ### :hammer_and_pick: Tools :hammer_and_pick:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -22,8 +22,8 @@
 
 ---
 ### :muscle: Problem Solving :muscle:
-<a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="https://github-readme-stats.vercel.app/api?username=SeungAhSon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&theme=gradient&hide_border=true&border_radius = 15" alt="SeungAh's github stats" /></a>
-  <a href="https://github.com/SeungAhSon"><img align="center" style="height:160px; width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+<a href="https://github.com/SeungAhSon"><img align="center" style="height:200px; width :400px" src="https://github-readme-stats.vercel.app/api?username=SeungAhSon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&theme=gradient&hide=issues&hide_border=true&count_private=true&line_height=27" alt="SeungAh's github stats" /></a>
+  <a href="https://github.com/SeungAhSon"><img align="center" style="height:160px; width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&card_width=400px" /></a>
    <a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee" /></a>
  <img align="center" style="height:180px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
  
