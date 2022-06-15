@@ -1,5 +1,6 @@
+<div align="center>
 ### :technologist: Tech Stack :technologist:
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeungAhSon&row=1)](https://github.com/SeungAhSon/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeungAhSon&column=7)](https://github.com/SeungAhSon/github-profile-trophy)
 
 ---
 ### :book: Studying :book:
@@ -24,3 +25,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee)](https://solved.ac/gongsoonyee)
  <img width=“400em” src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact)](https://github.com/SeungAhSon/github-readme-stats)
+
+                                                                                        
+</div>
