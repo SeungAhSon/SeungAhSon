@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-
 :book: Studying :book:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -20,5 +17,5 @@
 
 ![SeungAhSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAhSon&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee)](https://solved.ac/gongsoonyee)
- <img src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
+ <img width=“300em” src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact)](https://github.com/SeungAhSon/github-readme-stats)
