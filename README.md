@@ -17,5 +17,5 @@
 
 ![SeungAhSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAhSon&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee)](https://solved.ac/gongsoonyee)
- <img width=“300em” src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
+ <img width=“400em” src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact)](https://github.com/SeungAhSon/github-readme-stats)
