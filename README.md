@@ -23,8 +23,8 @@
 ---
 ### :muscle: Problem Solving :muscle:
 <a href="https://github.com/SeungAhSon"><img align="center" style="height:200px; width :400px" src="https://github-readme-stats.vercel.app/api?username=SeungAhSon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_icons=true&theme=gradient&hide=issues&hide_border=true&count_private=true&line_height=27&border_radius=15" alt="SeungAh's github stats" /></a>
-  <a href="https://github.com/SeungAhSon"><img align="center" style="height:160px; width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&card_width=400px&border_radius=15" /></a>
-   <a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee" /></a>
+<a href="https://github.com/SeungAhSon"><img align="center" style="height:160px; width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&card_width=400px&border_radius=15" /></a>
+ <a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee" /></a>
  <img align="center" style="height:180px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
  
 
