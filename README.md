@@ -22,11 +22,12 @@
 
 ---
 ### :muscle: Problem Solving :muscle:
+<a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="https://github-readme-stats.vercel.app/api?username=SeungAhSon&show_icons=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=true" alt="SeungAh's github stats" /></a>
+  <a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact&theme=radical&hide_border=true" /></a>
+   <a href="https://github.com/SeungAhSon"><img align="center" style="height:180px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee" /></a>
+ <img align="center" style="height:180px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
+ 
 
-![SeungAhSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAhSon&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee)](https://solved.ac/gongsoonyee)
- <img width=“400em” src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAhSon&layout=compact)](https://github.com/SeungAhSon/github-readme-stats)
 
                                                                                         
 </div>
