@@ -30,5 +30,5 @@
 :1st_place_medal: Baekjoon solved.ac :1st_place_medal:
  
 <a href="https://github.com/SeungAhSon"><img align="center" style="height:200px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee"/></a>
- <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>                                                                        
+<a href="https://github.com/SeungAhSon"> <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>                                                                        
 </div>
