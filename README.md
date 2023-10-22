@@ -5,13 +5,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeungAhSon&row=1&column=6)](https://github.com/SeungAhSon)
 
 ---
-### :book: Studying :book:
+### :book: Programming Language :book:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%23276DC3.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23276DC3?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23276DC3.svg?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-%23276DC3.svg?style=for-the-badge&logo=React)
 
 ---
 ### :hammer_and_pick: Tools :hammer_and_pick:
