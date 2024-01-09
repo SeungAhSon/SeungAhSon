@@ -2,7 +2,7 @@
 <br>
  
 ### :technologist: Tech Stack :technologist:
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeungAhSon&row=1&column=6)](https://github.com/SeungAhSon)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeungAhSon&row=1&column=5)](https://github.com/SeungAhSon)
 
 ---
 ### :book: Programming Language :book:
