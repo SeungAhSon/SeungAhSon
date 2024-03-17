@@ -25,7 +25,16 @@
 ---
 ### :muscle: Problem Solving :muscle:
 :1st_place_medal: Baekjoon solved.ac :1st_place_medal:
- 
+
+<div align="center">
 <a href="https://github.com/SeungAhSon"><img align="center" style="height:200px; width :400px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gongsoonyee"/></a>
-<a href="https://github.com/SeungAhSon"> <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>                                                                        
+<a href="https://github.com/SeungAhSon"> <img align="center" style="height:200px; width :400px" src="http://mazandi.herokuapp.com/api?handle=gongsoonyee&theme=warm"/>      
+</div>
+<br />
+<br />
+
+:1st_place_medal: Github Streak :1st_place_medal:
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=SeungAhSon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 </div>
